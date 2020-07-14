@@ -1,0 +1,160 @@
+
+skeleton.png
+size: 870,870
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Right Arm
+  rotate: false
+  xy: 209, 258
+  size: 186, 250
+  orig: 186, 250
+  offset: 0, 0
+  index: -1
+Right Hand
+  rotate: false
+  xy: 490, 510
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 510
+  size: 318, 358
+  orig: 318, 358
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 613, 564
+  size: 190, 166
+  orig: 190, 166
+  offset: 0, 0
+  index: -1
+eyes closed
+  rotate: false
+  xy: 322, 510
+  size: 166, 109
+  orig: 166, 109
+  offset: 0, 0
+  index: -1
+hair base 2
+  rotate: true
+  xy: 2, 238
+  size: 270, 205
+  orig: 270, 205
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 199, 31
+  size: 196, 205
+  orig: 196, 205
+  offset: 0, 0
+  index: -1
+left arm
+  rotate: false
+  xy: 460, 627
+  size: 151, 241
+  orig: 151, 241
+  offset: 0, 0
+  index: -1
+left foot
+  rotate: false
+  xy: 535, 23
+  size: 136, 101
+  orig: 136, 101
+  offset: 0, 0
+  index: -1
+left hair 1
+  rotate: true
+  xy: 397, 126
+  size: 133, 154
+  orig: 133, 154
+  offset: 0, 0
+  index: -1
+left hair 2
+  rotate: false
+  xy: 397, 390
+  size: 178, 118
+  orig: 178, 118
+  offset: 0, 0
+  index: -1
+left hair 3
+  rotate: false
+  xy: 2, 25
+  size: 195, 211
+  orig: 195, 211
+  offset: 0, 0
+  index: -1
+left hair 4
+  rotate: true
+  xy: 553, 128
+  size: 130, 97
+  orig: 130, 97
+  offset: 0, 0
+  index: -1
+left hand
+  rotate: false
+  xy: 754, 303
+  size: 112, 106
+  orig: 112, 106
+  offset: 0, 0
+  index: -1
+left leg footless
+  rotate: true
+  xy: 613, 732
+  size: 136, 236
+  orig: 136, 236
+  offset: 0, 0
+  index: -1
+middle hair
+  rotate: true
+  xy: 673, 60
+  size: 136, 124
+  orig: 136, 124
+  offset: 0, 0
+  index: -1
+right foot
+  rotate: false
+  xy: 397, 2
+  size: 136, 122
+  orig: 136, 122
+  offset: 0, 0
+  index: -1
+right hair 1
+  rotate: true
+  xy: 613, 411
+  size: 151, 178
+  orig: 151, 178
+  offset: 0, 0
+  index: -1
+right hair 2
+  rotate: true
+  xy: 577, 260
+  size: 149, 175
+  orig: 149, 175
+  offset: 0, 0
+  index: -1
+right hair 3
+  rotate: false
+  xy: 397, 261
+  size: 172, 127
+  orig: 172, 127
+  offset: 0, 0
+  index: -1
+right hair 4
+  rotate: false
+  xy: 754, 198
+  size: 109, 103
+  orig: 109, 103
+  offset: 0, 0
+  index: -1
+right leg footless
+  rotate: false
+  xy: 322, 621
+  size: 136, 247
+  orig: 136, 247
+  offset: 0, 0
+  index: -1
